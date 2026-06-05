@@ -120,7 +120,7 @@ function render(){
 
     <div class="card">
 
-      <h2>單身愛之語測驗</h2>
+      <h2>配偶愛之語測驗</h2>
 
       <div class="progress">
         <div class="bar" style="width:${percent}%"></div>
